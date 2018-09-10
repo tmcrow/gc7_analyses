@@ -1,0 +1,6 @@
+data/*
+figures/*
+*.Rhistory
+*.DS_Store
+
+old/*
